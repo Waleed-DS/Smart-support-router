@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+notebooks/results/
+models/distilbert_banking/*.bin
+models/distilbert_banking/*.safetensors
